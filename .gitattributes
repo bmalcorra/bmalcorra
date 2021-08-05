@@ -1,1 +1,3 @@
 *.* linguist-language=R
+
+project-docs/* linguist-documentation
